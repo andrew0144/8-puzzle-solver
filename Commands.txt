@@ -1,0 +1,28 @@
+setState 453 678 b12
+printState
+move up
+printState
+move right
+printState
+move down
+printState
+move left
+printState
+randomizeState 10
+printState
+solve A-star h2
+solve A-star h1
+randomizeState 20
+printState
+solve A-star h2
+solve A-star h1
+randomizeState 250
+solve A-star h2
+randomizeState 20
+solve beam 10
+randomizeState 20
+solve beam 2
+randomizeState 10
+solve A-star h1
+solve A-star h2
+solve beam 10
