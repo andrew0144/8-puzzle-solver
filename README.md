@@ -14,4 +14,4 @@ Each command must be separated and on its own line in Commands.txt.
 
 Here is a list of commands you can mess around with:
 - setState
--   fdsf
+- - fdsf
