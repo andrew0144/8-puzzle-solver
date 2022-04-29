@@ -13,7 +13,7 @@ By editing this file, you are telling my program what to do.
 Each command must be separated and on its own line in Commands.txt.
 
 Here is a list of commands you can mess around with:
-- setState <input> <input> <input>
+- setState \<input\> \<input\> \<input\>
   - This command sets the state of the 8-puzzle. Each <input> string consists of 3 numbers, or the character b, which represents the blank tile. There can only be one b in a given setState command. All other characters must be the number 1-8, and these numbers cannot be reused/
 - printState
   - This command prints the current state to the console.
