@@ -9,3 +9,9 @@ In this intro to AI project, I implemented A* search and local beam search to so
 - Observe the console output to see how my A* search and local beam search work through the 8-puzzle
 
 ### Editing Commands.txt
+By editing this file, you are telling my program what to do.
+Each command must be separated and on its own line in Commands.txt.
+
+Here is a list of commands you can mess around with:
+- setState
+-   fdsf
